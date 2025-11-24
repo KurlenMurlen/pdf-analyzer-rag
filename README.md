@@ -1,6 +1,6 @@
 # PUR Auditor RAG
 
-![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=PUR%20Auditor%20RAG&fontSize=80&fontColor=ffffff)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=PDF%20Auditor%20RAG&fontSize=80&fontColor=ffffff)
 
 > **Intelligent R&D Project Analysis with Retrieval-Augmented Generation**
 
