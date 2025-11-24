@@ -129,4 +129,4 @@ pur-auditor-rag/
 
 ---
 
-*Built with ❤️ by the R&D Team*
+
