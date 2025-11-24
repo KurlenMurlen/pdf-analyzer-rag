@@ -1,4 +1,4 @@
-# PUR Auditor RAG
+# PDF Auditor RAG
 
 ![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=PDF%20Auditor%20RAG&fontSize=80&fontColor=ffffff)
 
